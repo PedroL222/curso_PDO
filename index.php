@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php include_once("./config.php");  
-    include_once("./pdo/aula4_query.php")
+    include_once("./pdostatment/aula11_fechObject.php")
     ?>
 </body>
 </html>
